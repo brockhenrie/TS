@@ -1,0 +1,11 @@
+{
+  "name": "ts-decorators",
+  "version": "1.0.0",
+  "description": "a class about ts decorators",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brock Henrie",
+  "license": "ISC"
+}
